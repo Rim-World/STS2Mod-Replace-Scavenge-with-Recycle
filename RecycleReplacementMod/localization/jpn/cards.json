@@ -1,0 +1,4 @@
+{
+  "RE_RECYCLE.title": "リサイクル",
+  "RE_RECYCLE.description": "カードを1枚[gold]廃棄[/gold]する。\nそのコストに等しい{Energy:energyIcons()}を得る。"
+}

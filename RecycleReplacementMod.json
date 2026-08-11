@@ -1,0 +1,12 @@
+{
+  "id": "RecycleReplacementMod",
+  "name": "回收 (Recycle)",
+  "author": "RecycleReplacementMod",
+  "description": "将故障机器人的“内存清理”（Scavenge）整卡替换为杀戮尖塔1的“回收”（Recycle）：消耗一张牌并立即获得与其耗能相等的能量，升级改为 0 费；STS1 卡图与 15 语言文本。",
+  "version": "0.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "min_game_version": "0.107.1",
+  "dependencies": [],
+  "affects_gameplay": true
+}

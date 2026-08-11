@@ -1,0 +1,4 @@
+{
+  "RE_RECYCLE.title": "回收",
+  "RE_RECYCLE.description": "[gold]消耗[/gold]一张牌。\n获得与其耗能相等的{Energy:energyIcons()}。"
+}

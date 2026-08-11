@@ -1,0 +1,4 @@
+{
+  "RE_RECYCLE.title": "Утилизация",
+  "RE_RECYCLE.description": "[gold]Сжигает[/gold] выбранную карту.\nДаёт {Energy:energyIcons()}, равную её цене."
+}
